@@ -14,7 +14,7 @@ function kilometerToMeter(kilometer) {
 
 
 
-//Calculate a shopping  Budget
+//Calculate a Shopping  Budget
 
 function budgetCalculator(watch, phone, laptop) {
 
